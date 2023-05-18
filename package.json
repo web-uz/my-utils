@@ -2,11 +2,21 @@
   "name": "my-utils",
   "version": "1.0.0",
   "description": "",
-  "main": "utils.js",
+  "main": "index.js",
+  "homepage": "https://github.com/abdurakhman-uz/my-utils",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdurakhman-uz/my-utils.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "uid",
+    "encode",
+    "decode",
+    "password-hashing"
+  ],
+  "author": "Abdurakhman <autodevices@gmail.com>",
+  "license": "MIT"
 }
